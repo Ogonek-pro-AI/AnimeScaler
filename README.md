@@ -1,10 +1,6 @@
 ﻿<!DOCTYPE html>
 <html>
 <body>
-    <div align="center">    
-        <img src="https://github.com/Ogonek-pro-AI/AnimeScaler/blob/main/Assets/logo.png" width="175"> 
-        <br><br> AnimeScaler - image/video AI upscaler app <br><br>
-    </div>
     <br>
     <div align="center">
       <img src="Assets/logo.png" alt="AnimeScaler logo" width="160" />
