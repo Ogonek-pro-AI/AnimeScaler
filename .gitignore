@@ -13,8 +13,6 @@ dist/
 *.zip
 *.tar.gz
 
-# Ignore logo files (kept locally but not tracked in repo)
-Assets/logo.png
-Assets/logo.ico
+# (logo files restored in repo)
 
 "@ | Out-File -Encoding utf8 .gitignore
