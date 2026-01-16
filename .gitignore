@@ -12,7 +12,9 @@ dist/
 .DS_Store
 *.zip
 *.tar.gz
-# большие модели/бинарники
-AI-onnx/
-Assets/*.onnx
+
+# Ignore logo files (kept locally but not tracked in repo)
+Assets/logo.png
+Assets/logo.ico
+
 "@ | Out-File -Encoding utf8 .gitignore
