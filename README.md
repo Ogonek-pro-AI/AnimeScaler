@@ -2,18 +2,8 @@
 <html>
 <body>
     <div align="center">    
-        <img src="https://github.com/Djdefrag/AnimeScaler/blob/main/Assets/logo.png" width="175"> 
+        <img src="https://github.com/Ogonek-pro-AI/AnimeScaler/blob/main/Assets/logo.png" width="175"> 
         <br><br> AnimeScaler - image/video AI upscaler app <br><br>
-        <a href="https://jangystudio.itch.io/qualityscaler">
-            <button>
-                <img src="https://static.itch.io/images/badge-color.svg" width="225" height="70">
-            </button>     
-        </a>
-        <a href="https://store.steampowered.com/app/2463110/AnimeScaler/">
-            <button>
-                 <img src="https://images.squarespace-cdn.com/content/v1/5b45fae8b98a78d9d80b9c5c/1531959264455-E7B8MJ3VMPX0593VGCZG/button-steam-available-fixed-2.png" width="250" height="70">
-            </button>                 
-        </a>
     </div>
     <br>
     <div align="center">
@@ -118,7 +108,3 @@
     сли нужно добавить информацию об авторе или способ связи — пришлите желаемый текст, добавлю в README.
 
     ---
-
-#### Videos
-
-![original](https://user-images.githubusercontent.com/32263112/209139620-bdd028f8-d5fc-40de-8f3d-6b80a14f8aab.gif)
